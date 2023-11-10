@@ -19,3 +19,5 @@
     - Then run ```.\anyContainerName``` and it will print the contents of that file.
     - In my example you would run ```g++ -o myprogram main.cpp and then .\myprogram exe```
     - This is after you have installed MinGW and set the Path.
+- JS
+    - To run javascript run Node main.js or any file name.js
