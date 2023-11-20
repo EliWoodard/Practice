@@ -29,7 +29,7 @@ int main() {
         case 4:
             printf("4 remainder\n");
         case 3:
-            printf("4 remainder\n");
+            printf("3 remainder\n");
         case 2:
             printf("2 remainder\n");
         case 1:
