@@ -14,6 +14,10 @@
     - Used to show how to print in c++
 - ### Arrays
 - ### ConditionalStatements
+- ### HashMaps
+    - c does not have HashMaps
+- ### ObjectOrientedDesign
+    - I demostrate simple examples of these in JavaScript
 
 ## Notes
 - C++
