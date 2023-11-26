@@ -6,6 +6,7 @@
 - Java
 - C++
 - C
+- R
 
 ## Folders
 - ### Declaring Variables
