@@ -28,3 +28,7 @@
     - This is after you have installed MinGW and set the Path.
 - JS
     - To run javascript run Node main.js or any file name.js
+- R
+    - To get R running I installed R [Here](https://cran.r-project.org/)
+    - I then went to my path variables for system to add the R bin folder.
+    - To run R now I use Rscript <fileName.R>
